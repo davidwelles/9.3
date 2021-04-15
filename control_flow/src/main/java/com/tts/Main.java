@@ -51,7 +51,7 @@ public class Main {
                 }
 
 
-                int ballTwo = (int) petString.charAt(3);
+                int ballTwo = (int) petString.charAt(1);
                 if (ballTwo > 65){
                     ballTwo -= 65;
                 }else if(ballTwo < 1){
